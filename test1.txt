@@ -1,1 +1,2 @@
 Hello Github seshu here.
+Created a first repository
